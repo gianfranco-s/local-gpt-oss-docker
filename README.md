@@ -7,6 +7,7 @@ Exploration paths:
 - [ ] vLLM
 - [ ] Text Generation Inference (TGI)
 - [ ] LM Studio
+- [ ] Custom API layer
 
 Questions I'd like to answer:
 - What is the difference between those?
